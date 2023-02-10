@@ -1,0 +1,5 @@
+git init
+git commit -m "first commit"
+git branch branch -M main
+git remote add origin https://github.com/ameer766/30_Days_Of-_Python-.git
+git push -u origin main
